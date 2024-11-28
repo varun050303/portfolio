@@ -2,37 +2,25 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "MiraHikari",
-    "label": "Senior Full Stack Developer",
+    "name": "Varun Singhal",
+    "label": "Full Stack Developer",
     "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
+    "email": "varun.singhalmailbox@gmail.com",
     "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "summary": "Guy who, primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
     "theme": "red",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "address": "Muzaffarnagar",
+      "city": "Uttar Pradesh",
+      "countryCode": "IN",
+      "region": "India"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
-      },
-      {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "Varun050303",
+        "url": "https://github.com/varun050303"
       }
     ],
     "beian": {
@@ -67,12 +55,12 @@
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
+      "institution": "Choudhary Charan Singh University",
       "url": "",
       "area": "Regular Student",
       "studyType": "Full-time student",
-      "startDate": "2021-9-01",
-      "endDate": null
+      "startDate": "2020-Sep",
+      "endDate": "2023-Nov"
     }
   ],
   "certificates": [
@@ -81,64 +69,25 @@
       "date": "2010-04-14",
       "url": "",
       "issuer": "Myself"
-    },
-    {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
-      "url": "",
-      "issuer": "Tencent Cloud"
     }
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
-      "endDate": null,
+      "name": "Tribal Arena",
+      "position": "Lead Frontend Developer",
+      "location_type": "Hybrid",
+      "location": "IND",
+      "url": "https://github.com/anban4u/BtxSports",
+      "startDate": "2022-05-01",
+      "endDate": "2023-11-29",
       "summary": "Developing high-availability full-stack projects.",
-      "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
-      ],
+      "highlights": ["Enhanced internal workflow efficiency by 30%."],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Built re-usable components for re-scaling and cost-effectiveness.",
+        "Contributed to backend experience and collaborated on API’s"
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
-      ],
-      "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
-      }
-    },
-    {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
-      "highlights": [
-        "Completed 95% of project content."
-      ],
-      "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
-      ],
-      "achievements": [
-        "Ensured smooth project execution."
+        "Participated in pre project analysis and technical assessments t o validate creation of user friendly interface"
       ],
       "skills": {
         "HTML": "simple-icons:html5",
@@ -147,9 +96,38 @@
         "TypeScript": "simple-icons:typescript",
         "Vite": "simple-icons:vite",
         "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
+        "TailwindCSS": "mdi:tailwind",
+        "SQL": "simple-icons:mysql",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Angular": "mdi:angular",
+        "": "mdi:language-csharp",
+        "Figma": "mdi:language-fortran"
+      }
+    },
+    {
+      "name": "Self",
+      "position": "Full-stack Developer",
+      "location_type": "Remote",
+      "location": "IND",
+      "url": "https://github.com/varun050303",
+      "startDate": "2023-01-01",
+      "endDate": "2024-02-11",
+      "summary": "Led page design and account systems.",
+      "highlights": ["Completed 95% of project content."],
+      "responsibilities": [
+        "Developed complete pages.",
+        "Integrated user-facing elements with server-side logic."
+      ],
+      "achievements": ["Ensured smooth project execution."],
+      "skills": {
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "Vite": "simple-icons:vite",
+        "Node": "ri:nodejs-line",
         "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
         "SQL": "simple-icons:mysql",
         "Tailwind": "mdi:tailwind",
         "React": "mdi:react",
@@ -163,31 +141,19 @@
       "name": "HTML",
       "icon": "simple-icons:html5",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
       "icon": "ri:css3-fill",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "JavaScript",
       "icon": "simple-icons:javascript",
       "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
@@ -215,55 +181,31 @@
       "name": "Node",
       "icon": "ri:nodejs-line",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
       "name": "SQL",
       "icon": "simple-icons:mysql",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "MongoDB",
       "icon": "simple-icons:mongodb",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "File", "Data Storage", "Backend"]
     },
     {
       "name": "Git",
       "icon": "mdi:git",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "GitHub",
       "icon": "mdi:github",
       "level": "Expert",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
       "name": "Next.js",
@@ -281,193 +223,115 @@
       "name": "React",
       "icon": "mdi:react",
       "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Vue",
       "icon": "mdi:vuejs",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Docker",
       "icon": "mdi:docker",
       "level": "Intermediate",
-      "keywords": [
-        "Virtual Environments",
-        "Backend"
-      ]
+      "keywords": ["Virtual Environments", "Backend"]
     },
     {
       "name": "NestJS",
       "icon": "simple-icons:nestjs",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
+      "keywords": ["Web Development", "Backend", "IOC"]
     },
     {
       "name": "Vite",
       "icon": "simple-icons:vite",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
+      "keywords": ["Web Development", "Frontend", "Build Tool"]
     },
     {
       "name": "WordPress",
       "icon": "ri:wordpress-fill",
       "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
+      "keywords": ["PHP", "Fullstack", "Frontend"]
     },
     {
       "name": "Golang",
       "icon": "simple-icons:go",
       "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
+      "keywords": ["Backend", "Cloud Service"]
     },
     {
       "name": "PHP",
       "icon": "simple-icons:php",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Web Development", "Backend", "Fullstack"]
     },
     {
       "name": "Nginx",
       "icon": "simple-icons:nginx",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Web Server"
-      ]
+      "keywords": ["Web Development", "Backend", "Web Server"]
     },
     {
       "name": "Tauri",
       "icon": "simple-icons:tauri",
       "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
+      "keywords": ["Desktop App", "Rust", "Webview"]
     },
     {
       "name": "Rust",
       "icon": "simple-icons:rust",
       "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
+      "keywords": ["Desktop App", "Webview"]
     },
     {
       "name": "Socket.IO",
       "icon": "simple-icons:socketdotio",
       "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
+      "keywords": ["Realtime", "Websocket"]
     },
     {
       "name": "Electron",
       "icon": "simple-icons:electron",
       "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
+      "keywords": ["Desktop App", "Webview"]
     },
     {
       "name": "Shell",
       "icon": "simple-icons:shell",
       "level": "Intermediate",
-      "keywords": [
-        "Scripting",
-        "Automation"
-      ]
+      "keywords": ["Scripting", "Automation"]
     },
     {
       "name": "Linux",
       "icon": "simple-icons:linux",
       "level": "Intermediate",
-      "keywords": [
-        "OS",
-        "Scripting",
-        "Automation"
-      ]
+      "keywords": ["OS", "Scripting", "Automation"]
     },
     {
       "name": "Vercel",
       "icon": "simple-icons:vercel",
       "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
+      "keywords": ["Serverless", "Static Site Hosting"]
     },
     {
       "name": "Netlify",
       "icon": "simple-icons:netlify",
       "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
+      "keywords": ["Serverless", "Static Site Hosting"]
     },
     {
       "name": "Tencent Cloud",
       "icon": "simple-icons:tencentqq",
       "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
+      "keywords": ["Cloud Service"]
     },
     {
       "name": "Cloudflare Edge Functions",
       "icon": "simple-icons:cloudflare",
       "level": "Expert",
-      "keywords": [
-        "Serverless",
-        "Edge Computing"
-      ]
+      "keywords": ["Serverless", "Edge Computing"]
     }
   ],
   "languages": [
@@ -483,10 +347,7 @@
   "interests": [
     {
       "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
+      "keywords": ["AI", "Blockchain"]
     }
   ],
   "references": [
@@ -497,38 +358,38 @@
   ],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
+      "name": "Project-X",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "url": "https://i.postimg.cc/MKrmHnfp/Screenshot-2024-11-28-at-2-43-11-PM.png",
         "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "dark": "https://i.postimg.cc/MKrmHnfp/Screenshot-2024-11-28-at-2-43-11-PM.png"
       },
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "A platform for connecting clients with skilled laborers.",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        "🎯 A platform for connecting clients with skilled laborers.",
+        "✨ Hasselfree, get job offer from your ease ",
+        "😄 Competitive environment and fair compensation",
+        "🚀 Grow yourself."
       ],
-      "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
+      "url": "#",
+      "github": "https://github.com/varun050303/Project-X"
     },
     {
-      "name": "Riddle Town Hunt 2",
+      "name": "Code Challenger Bot",
       "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
+        "url": "https://i.postimg.cc/yNPrxVm6/1731700936634.jpg",
+        "position": "container"
       },
       "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "A Telegram bot that helps you practice coding questions.",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
+        "👌 Practice on question generated by AI",
+        "😮‍ Select your preferred language, difficulty level, and type of question",
+        "😊 Telegram bot to receive question and answer"
       ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "url": "#",
+      "github": "https://github.com/varun050303/CodeChallengeBot"
     }
   ]
 }
