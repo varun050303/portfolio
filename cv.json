@@ -8,7 +8,7 @@
     "email": "varun.singhalmailbox@gmail.com",
     "url": "https://www.gcxstudio.cn",
     "summary": "Guy who, primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
-    "theme": "red",
+    "theme": "cyber",
     "location": {
       "address": "Muzaffarnagar",
       "city": "Uttar Pradesh",
@@ -226,24 +226,6 @@
       "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
-    },
-    {
-      "name": "Docker",
-      "icon": "mdi:docker",
-      "level": "Intermediate",
-      "keywords": ["Virtual Environments", "Backend"]
-    },
-    {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "IOC"]
-    },
-    {
       "name": "Vite",
       "icon": "simple-icons:vite",
       "level": "Intermediate",
@@ -256,58 +238,16 @@
       "keywords": ["PHP", "Fullstack", "Frontend"]
     },
     {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": ["Backend", "Cloud Service"]
-    },
-    {
-      "name": "PHP",
-      "icon": "simple-icons:php",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "Fullstack"]
-    },
-    {
       "name": "Nginx",
       "icon": "simple-icons:nginx",
       "level": "Intermediate",
       "keywords": ["Web Development", "Backend", "Web Server"]
     },
     {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": ["Desktop App", "Rust", "Webview"]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": ["Desktop App", "Webview"]
-    },
-    {
       "name": "Socket.IO",
       "icon": "simple-icons:socketdotio",
       "level": "Beginner",
       "keywords": ["Realtime", "Websocket"]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": ["Desktop App", "Webview"]
-    },
-    {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Intermediate",
-      "keywords": ["Scripting", "Automation"]
-    },
-    {
-      "name": "Linux",
-      "icon": "simple-icons:linux",
-      "level": "Intermediate",
-      "keywords": ["OS", "Scripting", "Automation"]
     },
     {
       "name": "Vercel",
@@ -320,23 +260,11 @@
       "icon": "simple-icons:netlify",
       "level": "Intermediate",
       "keywords": ["Serverless", "Static Site Hosting"]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": ["Cloud Service"]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
-      "level": "Expert",
-      "keywords": ["Serverless", "Edge Computing"]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
+      "language": "Hindi",
       "fluency": "Native speaker"
     },
     {
@@ -357,6 +285,22 @@
     }
   ],
   "projects": [
+    {
+      "name":"SD College Of Pharmacy",
+      "image":{
+        "url":"https://i.postimg.cc/7htK6r9q/Screenshot-2025-01-16-at-4-24-13-PM.png",
+        "position":"container"
+      },
+      "isActive":true,
+      "description":"SD College of Pharmacy to showcase their academic programs, facilities, and admission details.",
+      "highlights":[
+        "🎯 Clutter free design with to the point details",
+        "✨ User friendly and self declrative design ",
+        "😄 Hassle free update because of optimized code",
+        "🚀 Grow your audience."
+      ],
+      "url":"https://sdcop-website.vercel.app/"
+    },
     {
       "name": "Project-X",
       "image": {
